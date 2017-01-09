@@ -1,0 +1,6 @@
+[package]
+name = "daemon_on_rust"
+version = "0.1.0"
+authors = ["Bykov Igor <igorb.dev@websm.io>"]
+
+[dependencies]
